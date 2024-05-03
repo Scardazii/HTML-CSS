@@ -1,0 +1,26 @@
+.body{
+    background-color: #BFDBBD;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.fundo{
+    background-color:#97C08C;
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.basico{
+    color: rgb(199, 91, 199);
+}
+
+.intermediario{
+    color: #3968A5
+}
+
+.avancado{
+    color: #14223E;
+}
+
